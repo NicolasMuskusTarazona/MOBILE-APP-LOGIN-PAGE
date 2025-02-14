@@ -1,5 +1,9 @@
 :root{
-    --color-1:red;
+    --color-1: #FFFFFF;
+    --color-2: #090909;
+    --color-3: #000000;
+    --color-4: #1E1E1E;
+    --color-5: #77297d;
 }
 @font-face {
     font-family: "Inter_18pt-Regular";
