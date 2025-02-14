@@ -1,0 +1,7 @@
+:root{
+    --color-1:red;
+}
+@font-face {
+    font-family: "Inter_18pt-Regular";
+    src: url(../stora/font/Inter/static/Inter_18pt-Regular.ttf);
+}
