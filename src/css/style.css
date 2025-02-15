@@ -25,7 +25,6 @@
     top: 10px
 }
 
-
 .img-2 {
     position: relative;
     right: 200px;
@@ -34,4 +33,16 @@
 .img-3 {
     position: relative;
     left: 240px;
+}
+
+a {
+    display: block;
+    font-family: "Inter_18pt-Bold";
+    text-align: center;
+    border-radius: 20px;
+    margin: 30px 60px;
+    padding: 20px 80px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
 }
