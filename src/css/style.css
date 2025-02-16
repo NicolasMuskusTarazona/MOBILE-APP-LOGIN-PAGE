@@ -1,13 +1,14 @@
 @import url(variable.css);
 *{
     margin: 0px;
-    padding: 0;
+    padding: 0px;
     box-sizing: border-box;
     background-color: var(--color-5);
 }
 
 .h1__titulo{
     margin: 20px;
+    margin-top: 0px;
     color: white;
     font-family: "Inter_18pt-Bold";
     font-size: 1.3cm;
@@ -15,33 +16,56 @@
 
 .p1__descripcion{
     margin: 20px;
+    margin-top: -10px;
     color: #1e1e1e;
     font-family: "Inter_18pt-Bold";
     font-size: 1.5rem;
 }
 
+.p2__descripcion{
+    margin: 10px;
+    margin-top: -20px;
+    margin-right: 60px;
+    text-align: center;
+    color: white;
+    font-family: "Inter_18pt-Bold";
+    font-size: 15px;
+}
+
+.p3__descripcion{
+    margin: 10px;
+    margin-top: -30px;
+    margin-left: 200px;
+    text-align: center;
+    color: black;
+    font-family: "Inter_18pt-Bold";
+    font-size: 15px;
+}
+
 .img-1 {
     position: relative;
-    top: 10px
+    top: 50px;
 }
 
 .img-2 {
     position: relative;
-    right: 200px;
+    right: 5.3cm;
 }
 
 .img-3 {
     position: relative;
-    left: 240px;
+    left: 6.5cm;
+    margin-top: -2.5cm;
 }
 
 a {
     display: block;
-    font-family: "Inter_18pt-Bold";
+    font-family: "Inter_24pt-Medium";
+    font-size: 20px;
     text-align: center;
     border-radius: 20px;
     margin: 30px 60px;
-    padding: 20px 80px;
+    padding: 20px;
     text-decoration: none;
     color: white;
     background-color: black;
