@@ -1,7 +1,6 @@
 @import url(variable.css);
 *{
-    overflow-x: hidden;
-    width: 100%;
+    overflow-x: hidden; 
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -45,7 +44,7 @@
     font-size: 15px;
 }
 
-.img-1 {
+.img-1{
     position: relative;
     top: 10px;
 }
